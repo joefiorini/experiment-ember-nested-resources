@@ -1,0 +1,1 @@
+export default Ember.Handlebars.compile("<h1>Post</h1>\n\n{{outlet}}\n");
